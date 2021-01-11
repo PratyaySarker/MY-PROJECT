@@ -29,8 +29,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>SBD_ Admin Login</title>
-	<?php include 'includes/head.php'; ?>
+	<title>Online Bazar Admin Login</title>
+	<?php include 'head.php'; ?>
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" type="text/css" href="css/admin.css">
 
