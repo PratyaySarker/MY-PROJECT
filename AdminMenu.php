@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<?php include 'includes/head.php';?>
+	<?php include 'head.php';?>
 	<link rel="stylesheet" type="text/css" href="css/admin.css">
 </head>
 <body>
